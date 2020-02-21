@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac1", "..\..\..\Desktop\ricardo\ricardo\prac1\prac1.csproj", "{D3958EB6-E540-4489-90B1-4CB62DC8B585}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac1", "ricardo\ricardo\prac1\prac1.csproj", "{D3958EB6-E540-4489-90B1-4CB62DC8B585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac 2", "..\..\..\Desktop\prac 2\prac 2\prac 2.csproj", "{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac 2", "prac 2\prac 2\prac 2.csproj", "{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac3", "..\..\..\Desktop\prac3\prac3\prac3.csproj", "{4A5CB570-8700-4673-96B7-B68DD06E7466}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac3", "prac 2\prac3\prac3\prac3.csproj", "{4A5CB570-8700-4673-96B7-B68DD06E7466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +32,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CF0836EA-C2DA-4FB7-9716-76D61D2C80E1}
+		SolutionGuid = {4E59E171-B520-48F5-A529-733D03EED8C3}
 	EndGlobalSection
 EndGlobal
