@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac1", "..\..\..\..\..\Desktop\l\prac1\prac1.csproj", "{D3958EB6-E540-4489-90B1-4CB62DC8B585}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac 2", "..\..\..\..\..\Desktop\l\prac 2\prac 2\prac 2.csproj", "{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac3", "..\..\..\..\..\Desktop\l\prac3\prac3.csproj", "{4A5CB570-8700-4673-96B7-B68DD06E7466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D3958EB6-E540-4489-90B1-4CB62DC8B585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3958EB6-E540-4489-90B1-4CB62DC8B585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3958EB6-E540-4489-90B1-4CB62DC8B585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6628EEFB-0CD8-4E37-A681-82C7FE3FFC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5CB570-8700-4673-96B7-B68DD06E7466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5CB570-8700-4673-96B7-B68DD06E7466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5CB570-8700-4673-96B7-B68DD06E7466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5CB570-8700-4673-96B7-B68DD06E7466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
