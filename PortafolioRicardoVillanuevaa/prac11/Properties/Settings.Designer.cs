@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PRAC1.Properties
+namespace prac11.Properties
 {
 
 
