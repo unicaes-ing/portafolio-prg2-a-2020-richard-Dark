@@ -8,33 +8,27 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace prac3
+namespace form3
 {
-    public partial class Form3 : Form
+    public partial class form3 : Form
     {
-        public Form3()
+        public form3()
         {
             InitializeComponent();
         }
 
-        private void btnlanzar_Click(object sender, EventArgs e)
+        private void btnLanzar_Click(object sender, EventArgs e)
         {
             Random r = new Random();
-            const int CANTIDAD = 5000;
-            int num = 0, cont = 0;
-            lstLanza.Items.Clear();
-            while (cont<CANTIDAD)
+            int c= 0;
+            lstDado.Items.Clear();
+            for (int i = 0; i <= 5000; i++)
             {
-                num = r.Next(1, 7);
-                
-                    lstLanza.Items.Add(num);
-                    cont++;
-             
+                int num = r.Next(1, 7);
+                if (num == 6) c++;
             }
-            if (true)
-            {
-
-            }
+            MessageBox.Show("Se obtuvo " + c + " veces el 6");
         }
+
     }
 }

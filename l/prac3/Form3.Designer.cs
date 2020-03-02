@@ -1,6 +1,6 @@
-﻿namespace prac3
+﻿namespace form3
 {
-    partial class Form3
+    partial class form3
     {
         /// <summary>
         /// Required designer variable.
@@ -28,44 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lstLanza = new System.Windows.Forms.ListBox();
-            this.btnlanzar = new System.Windows.Forms.Button();
+            this.lstDado = new System.Windows.Forms.ListBox();
+            this.btnLanzar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // lstLanza
+            // lstDado
             // 
-            this.lstLanza.FormattingEnabled = true;
-            this.lstLanza.Location = new System.Drawing.Point(78, 12);
-            this.lstLanza.Name = "lstLanza";
-            this.lstLanza.Size = new System.Drawing.Size(120, 212);
-            this.lstLanza.TabIndex = 0;
+            this.lstDado.FormattingEnabled = true;
+            this.lstDado.ItemHeight = 16;
+            this.lstDado.Location = new System.Drawing.Point(14, 12);
+            this.lstDado.Name = "lstDado";
+            this.lstDado.Size = new System.Drawing.Size(120, 244);
+            this.lstDado.TabIndex = 0;
             // 
-            // btnlanzar
+            // btnLanzar
             // 
-            this.btnlanzar.Location = new System.Drawing.Point(98, 282);
-            this.btnlanzar.Name = "btnlanzar";
-            this.btnlanzar.Size = new System.Drawing.Size(75, 23);
-            this.btnlanzar.TabIndex = 1;
-            this.btnlanzar.Text = "Lanzar";
-            this.btnlanzar.UseVisualStyleBackColor = true;
-            this.btnlanzar.Click += new System.EventHandler(this.btnlanzar_Click);
+            this.btnLanzar.Location = new System.Drawing.Point(37, 280);
+            this.btnLanzar.Name = "btnLanzar";
+            this.btnLanzar.Size = new System.Drawing.Size(75, 23);
+            this.btnLanzar.TabIndex = 1;
+            this.btnLanzar.Text = "Lanzar";
+            this.btnLanzar.UseVisualStyleBackColor = true;
+            this.btnLanzar.Click += new System.EventHandler(this.btnLanzar_Click);
             // 
-            // Form3
+            // ejercicio3
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 372);
-            this.Controls.Add(this.btnlanzar);
-            this.Controls.Add(this.lstLanza);
-            this.Name = "Form3";
-            this.Text = "Form3";
+            this.ClientSize = new System.Drawing.Size(148, 338);
+            this.Controls.Add(this.btnLanzar);
+            this.Controls.Add(this.lstDado);
+            this.Name = "ejercicio3";
+            this.Text = "ejercicio3";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.ListBox lstLanza;
-        private System.Windows.Forms.Button btnlanzar;
+        private System.Windows.Forms.ListBox lstDado;
+        private System.Windows.Forms.Button btnLanzar;
     }
 }
