@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac1", "..\l\prac1\prac1.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac3", "..\l\prac3\prac3.csproj", "{4A5CB570-8700-4673-96B7-B68DD06E7466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac4", "..\prac4\prac4\prac4\prac4.csproj", "{309308EA-580C-4E6D-A07A-89E10995261A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac4", "..\prac4\prac4.csproj", "{309308EA-580C-4E6D-A07A-89E10995261A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
