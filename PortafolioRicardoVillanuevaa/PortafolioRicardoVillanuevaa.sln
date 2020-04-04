@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac3", "..\l\prac3\prac3.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac4", "..\prac4\prac4.csproj", "{309308EA-580C-4E6D-A07A-89E10995261A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac5", "..\periodo2Prac5\WindowsFormsApplication1\WindowsFormsApplication1\Prac5.csproj", "{76AF6546-797F-46EF-A623-52268DA602B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac6", "..\l\Practica 6\Prac6.csproj", "{F43FC9CC-C69C-4DF9-BE62-CAC6CD0D393B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{309308EA-580C-4E6D-A07A-89E10995261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{309308EA-580C-4E6D-A07A-89E10995261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{309308EA-580C-4E6D-A07A-89E10995261A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AF6546-797F-46EF-A623-52268DA602B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AF6546-797F-46EF-A623-52268DA602B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AF6546-797F-46EF-A623-52268DA602B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AF6546-797F-46EF-A623-52268DA602B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43FC9CC-C69C-4DF9-BE62-CAC6CD0D393B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43FC9CC-C69C-4DF9-BE62-CAC6CD0D393B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43FC9CC-C69C-4DF9-BE62-CAC6CD0D393B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43FC9CC-C69C-4DF9-BE62-CAC6CD0D393B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
